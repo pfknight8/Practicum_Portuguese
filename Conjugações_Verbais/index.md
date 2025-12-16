@@ -4,10 +4,18 @@
 
 ## Navigation
 
-### *Indicative*
+### *Conditional*
 
-[Indicativo](./Indicativo/index_ind.md)
+[Condicional](./Condicional/index_condi.md)
+
+### *Subjunctive*
+
+[Conjuntivo](./Conjuntivo/index_conju.md)
 
 ### *Imperative*
 
 [Imperativo](./Imperativo/index_imp.md)
+
+### *Indicative*
+
+[Indicativo](./Indicativo/index_ind.md)
