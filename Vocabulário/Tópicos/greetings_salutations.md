@@ -34,3 +34,10 @@ Farewells and dismissals. Obviously being tounge-in-check with this title, but t
 | Tenha um bom dia/etc | Have a good day/etc    | polite |
 | Adeus                | Goodbye                | formal, considered strong/permanent faremell (lit. to God) |
 | Boa viagem           | Have a good trip       | polite, for someone traveling obviously |
+
+## Examples
+
+I want to demonstrate some conversational examples here, with responses, such as "How are you?" "I'm fine, thanks."
+
+G: Oi, tudo bem?
+R: Estou bem. E você?

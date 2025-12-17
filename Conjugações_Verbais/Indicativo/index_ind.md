@@ -7,8 +7,9 @@ There are several tenses associated with this mood, which can be grouped into th
 ## Contents
 
 - [Presente](./presente.md) = Present
-- [Pretérito Perfeito](./perfeito_pretérito.md) = Past Perfect
-- [Pretérito Imperfeito](./perfeito_imperfeito.md) = Imperfect Past
-- [Pretérito Mais-que-Perfeito](./perfeito_mais-que.md) = Pluperfect (Past)
-- [Futuro de Presente](./futuro.md) = Future of the Present
-- [Futuro de Preterite](./futuro_pretérito.md) = Future of the Past : Kind of a conditional tense, may move there.
+- [Pretérito Perfeito](./pretérito_perfeito.md) = Past Perfect
+- [Pretérito Imperfeito](./pretérito_imperfeito.md) = Imperfect Past
+- [Pretérito Mais-que-Perfeito](./pretérito_mais-que-perfeito.md) = Pluperfect (Past)
+- [Pretérito Perfeito Composto](./pretérito_perfeito_composto.md)
+- [Futuro de Presente Simples](./futuro_simples.md) = Simple Future tense (aka future of the Present simple)
+- [Futuro de Preterite Composto](./futuro_composto.md) = Future perfect tense (aka future of the present compounded)
