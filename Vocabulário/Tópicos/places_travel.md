@@ -8,6 +8,7 @@
 | city center    | centro(s)              | o/os   | |
 | castle         | castelo(s)             | o/os   | |
 | restaurante    | restaurante(s)         | o/os   | |
+| bakery         | padaria(s)             | a/as   | |
 | station        | estação/estações       | a/as   | |
 | airport        | aeroporto(s)           | o/os   | |
 | dump           | lixão/lixões           | o/os   | |
@@ -19,6 +20,7 @@
 | church         | igreja(s)              | a/as   | |
 | cathedral      | catedral/catedrais     | a/as   | Notice 'l' is replaced by 'is' for plural |
 | library        | biblioteca(s)          | a/as   | |
+| bookstore      | livraria(s)            | a/as   | |
 | stadium        | estádio(s)             | o/os   | |
 | store          | loja(s)                | a/as   | Many places with be this + de + 'what kind of store' |
 | market         | mercato(s)             | o/os   | |
@@ -61,3 +63,51 @@
 | warehouse      | armazém/armazéns       | o/os   | Notice 'm' is replaced by 'ns' for plural |
 | sewer          | esgoto(s)              | o/os   | |
 | neighborhood   | bairro(s)              | o/os   | |
+
+## Asking Questions
+
+Onde fica... = Where is...
+
+Ficar is the verb used in this sense, translates as "to stay, be, remain, keep, go, come" but is often used to express these in the sense of "is located"
+It is interchangable with "ser" in (Brazilian) Portuguese, but more common to use ficar.
+
+Com licença = excuse me
+This is a polite construction of excuse me, and may be followed by "pode me ajudar, por favor?" = "can you help me, please?"
+May get a reply of "Claro" = "of course"
+
+You may want to ask for another thing; "mais uma coisa..." = "one more thing..."
+
+## Adjectives and Adverbs
+
+| English         | Português              | Notes |
+|:----------------|:-----------------------|:------|
+| near/close      | perto                  | |
+| far             | longe                  | |
+| next to         | ao lado de             | And related words, such as beside |
+| in front of     | na frente de           | |
+| before/front of | diante                 | More formal; often for abstract/subjective situations (testified before the judge) |
+| ahead           | à frente               | In the physical sense; don't confuse with 'antes de' which is for time |
+| behind          | atrás                  | Sometimes "por trás" |
+| above/over      | acima de               | Used for both physical and figurative |
+| over/about      | sobre                  | above where it & over are interchangable (hung a picture over the fireplace) |
+| below           | abaixo de              | Generally used for levels in Brazil. Not to be confused with the figurative 'sob' |
+| beneath/under   | embaixo/debaixo        | Physically underneath something. Not to be confused with the figurative 'sob' |
+
+With many of these, can add "um pouco" to mean "a bit (more of what follows)"
+Can also add "daqui" to mean "from here"
+
+## Directions
+
+| English         | Português              | Notes |
+|:----------------|:-----------------------|:------|
+| Up              | para cima              | cima on its own can mean 'top' |
+| Down            | para baixo             | baixo on its own can mean 'low' |
+| Left            | esquerda               | |
+| Right           | direita                | |
+| Straight        | direta                 | Note: in the sense of something being straight is reta |
+| North           | Norte                  | |
+| South           | Sul                    | |
+| East            | Leste                  | note that the 'L' at the begining is dropped when forming compound directions |
+| West            | Oeste                  | |
+
+"siga em frente" = "go straight ahead" and is more used to described 'straight'

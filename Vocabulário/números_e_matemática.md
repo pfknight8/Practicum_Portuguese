@@ -33,3 +33,16 @@
 | 80      | oitenta   |
 | 90      | noventa   |
 | 100     | cem       |
+
+## Operations
+
+| Operand        | Português     |
+|:---------------|:-------------:|
+| +              | mais          |
+| Addition       | adição        |
+| -              | menos         |
+| Subtraction    | subtração     |
+| * (x)          | veces         |
+| Multiplication | multiplicação |
+| ÷ (/)          | dividido      |
+| Division       | divisão       |
