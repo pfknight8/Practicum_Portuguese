@@ -41,3 +41,13 @@ I want to demonstrate some conversational examples here, with responses, such as
 
 G: Oi, tudo bem?
 R: Estou bem. E você?
+
+## Useful Phrases
+
+Pode repetir, por favor? (você form) = Can you repeat, please?
+
+Pode falar mais devagar, por favor? (você form) = Can you speak more slowly, please?
+
+Que linguas fala? = What languages do you speak?
+
+Como se diz...em português? = How do you say...in Portuguese?

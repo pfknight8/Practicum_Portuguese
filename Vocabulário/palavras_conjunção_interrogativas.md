@@ -13,15 +13,17 @@ In this section, we will explore words and phrases that are used for forming que
 
 ### *List of interrogatives*
 
-onde         | where
-como         | how
-quando       | when
-quantos      | how many
-quanto custa | how much
-por quê      | why
-quem         | who
-o quê        | what
-qual         | which
+| English  | Português    |
+|:---------|:-------------|
+| who      | quem         |
+| what     | o quê        |
+| when     | quando       |
+| where    | onde         |
+| why      | por quê      |
+| how      | como         |
+| which    | qual         |
+| how many | quantos      |
+| how much | quanto custa |
 
 ## Conjunctions
 
